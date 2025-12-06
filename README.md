@@ -1,10 +1,12 @@
 # 📘 Architecture & IT Study Log
 
-건축기반의 개발자로 전향하기 위한 **파이썬(Python) & 블렌더(Blender) & 언리얼엔진(Unreal Engine)** 학습 기록 공간입니다.
+건축기반의 개발자로 전향하기 위한 **파이썬(Python) & 블렌더(Blender) & 라이노3D(Rhino 3D) & 그래스호퍼(Grasshopper) & 언리얼엔진(Unreal Engine)** 학습 기록 공간입니다.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Rhino 3D](https://img.shields.io/badge/Rhino%203D-000000?style=flat&logo=rhinoceros&logoColor=white)
+![Grasshopper](https://img.shields.io/badge/Grasshopper-009432?style=flat&logo=grasshopper&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white)
 
 
@@ -18,6 +20,7 @@
 | 2025.12.03 | Curtainwall-2 | 블렌더 파이썬으로 커튼월 자동화 연습2 | [코드보기](./day04) |
 | 2025.12.04 | Curtainwall_Building | 블렌더 파이썬으로 건물 자동화 연습-1 | [코드보기](./day05) |
 | 2025.12.05 | Generate_Building | 블렌더 파이썬으로 건물 자동화 연습-2 | [코드보기](./day06) |
+| 2025.12.06 | Pure_Python | 파이썬과 CS 학습 -1 | [코드보기](./day06) |
 
 업데이트 예정
 
