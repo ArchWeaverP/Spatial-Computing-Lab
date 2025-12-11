@@ -16,24 +16,14 @@
 * **Digital City:** 도시 데이터(GIS) 기반 매싱 자동화
 
 
-## 📅 Daily Log (학습 일지)
+## 🛠️ Build Log & Milestones
 
-| 날짜 | 주제 | 내용 요약 | 바로가기 |
-| :---: | :--- | :--- | :---: |
-| 2025.11.29 | Python 기초 | Hello world, 변수, 조건문, 반복문 기초 학습 | [코드보기](./day01) |
-| 2025.12.01 | Digital City | 블렌더 파이썬으로 랜덤 도시 생성 및 애니메이션 | [코드보기](./day02) |
-| 2025.12.02 | Curtainwall-1 | 블렌더 파이썬으로 커튼월 자동화 연습1 | [코드보기](./day03) |
-| 2025.12.03 | Curtainwall-2 | 블렌더 파이썬으로 커튼월 자동화 연습2 | [코드보기](./day04) |
-| 2025.12.04 | Curtainwall_Building | 블렌더 파이썬으로 건물 자동화 연습-1 | [코드보기](./day05) |
-| 2025.12.05 | Generate_Building | 블렌더 파이썬으로 건물 자동화 연습-2 | [코드보기](./day06) |
-| 2025.12.06 | Pure_Python | 파이썬과 CS 학습 -1 | [코드보기](./day07) |
-| 2025.12.07 | Pure_Python | 파이썬과 CS 학습 -2 | [코드보기](./day08) |
-| 2025.12.09 | Pure_Python | 파이썬과 CS 학습 -3 | [코드보기](./day09) |
-| 2025.12.10 | Pure_Python | 파이썬과 CS 학습 -4 | [코드보기](./day10) |
+| Date | Category | Key Feature / Task | Status |
+| :--- | :--- | :--- | :---: |
+| 2025.12.10 | **CS / Python** | **Memory & Pointer Logic**<br>Python Core Fundamentals / Focusing on Memory mgmt & Data Structures | 🟡 In Progress |
+| 2025.12.05 | **Blender API** | **Auto-Building Gen v0.2**<br>Refined random mass generation algorithm. | 🟢 Done |
+| 2025.12.04 | **Blender API** | **Parametric Curtainwall**<br>Implemented panel distribution logic on curved surfaces. | 🟢 Done |
+| 2025.12.01 | **Digital Twin** | **City Gen Prototype**<br>Procedural city generation loop based on grid data. | 🟢 Done |
+| 2025.11.29 | **Python Core** | **Environment Setup**<br>Established dev environment & basic syntax review. | 🟢 Done |
 
-
-
-업데이트 예정
-
----
-*Created by Sunah Park (ArchWeaverP)*
+> *All codes are updated daily to reflect the continuous R&D process.*
